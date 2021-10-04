@@ -15,16 +15,22 @@ body {
     width: 100%;
 }
 
-#menu {
-    font-size: 110%;
+ul {
+    font-size:x-large;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: right;
     font-family: Audiowide, sans-serif;
-    letter-spacing: 4px;
-    color: #ffffff;
-}
+  }
+
+  li {
+      display: inline-block    
+  }
 
 #menu a {
     text-decoration: none;
-    color: inherit #ffffff;
+    color: white;
 }
 
 #menu a:hover {
