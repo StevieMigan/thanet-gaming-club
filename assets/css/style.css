@@ -12,7 +12,6 @@ body {
 
 #section-one {
     background-color: purple;
-    border-radius: 50%;
 }
 
 .hero-image {
@@ -33,9 +32,37 @@ body {
     text-align: right;
 }
 
+h2, a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
+
 p {
     text-align: right;
 }
+
+#p-2 {
+    text-align: left;
+}
+
+#section-two {
+    background-color: purple;
+
+}
+
+.snes-controller {
+        height: 300px;
+        width: 300px;
+        border-radius: 50%;
+        float: right;
+        padding: 10px 5px 10px 10px;
+        object-fit: cover;
+    }
+
 
 ul {
     font-size:x-large;
@@ -58,3 +85,12 @@ ul {
 #menu a:hover {
     color: aqua;
 }
+
+.console-pictures {
+        width: 200px;
+        height: 100px;
+        border: 2px solid white;
+        border-radius: 100px;
+        object-fit: cover;    
+    }
+
