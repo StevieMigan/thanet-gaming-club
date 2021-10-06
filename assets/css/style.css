@@ -13,6 +13,7 @@ body {
 
 #section-one {
     background-color: purple;
+    padding: 10px 0 10px 10px;
 }
 
 .hero-image {
@@ -103,8 +104,17 @@ li {
 
 }
 
-
-
 #times {
     text-align: right;
+}
+
+.gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.gallery img{
+    width: 100%;
 }
