@@ -100,9 +100,9 @@ li {
     background-color: purple;
     text-align: center;
     padding-left: 20px;
+    padding-bottom: 30px;
     margin-top: 20px;
-
-}
+    }
 
 #times {
     text-align: right;
@@ -117,4 +117,27 @@ li {
 
 .gallery img{
     width: 100%;
+}
+
+footer {
+    height: 50px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer li{
+    display: inline;
+}
+
+.footer i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 1%;
+    color: white;
+}
+
+.footer i:hover {
+    color: aqua;
 }
