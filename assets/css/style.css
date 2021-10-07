@@ -55,6 +55,7 @@ p {
 #section-two {
     background-color: purple;
     padding-left: 20px;
+    padding-bottom: 80px;
 }
 
 .snes-controller {
@@ -62,7 +63,7 @@ p {
     width: 300px;
     border-radius: 50%;
     float: right;
-    padding: 75px 5px 10px 10px;
+    padding: 10px 5px 10px 10px;
     object-fit: cover;
 }
 
@@ -89,12 +90,11 @@ li {
 }
 
 .console-pictures {
-    width: 200px;
-    height: 150px;
-    border: 2px solid white;
-    border-radius: 100px;
+    width: 100px;
+    height: 100px;
     object-fit: cover;
 }
+
 
 #section-three {
     background-color: purple;
@@ -102,7 +102,7 @@ li {
     padding-left: 20px;
     padding-bottom: 30px;
     margin-top: 20px;
-    }
+}
 
 #times {
     text-align: right;
@@ -115,7 +115,7 @@ li {
     column-gap: 0px;
 }
 
-.gallery img{
+.gallery img {
     width: 100%;
 }
 
@@ -127,11 +127,11 @@ footer {
     text-align: center;
 }
 
-.footer li{
+.footer li {
     display: inline;
 }
 
-.footer i{
+.footer i {
     font-size: 160%;
     margin: 1%;
     padding: 1%;
