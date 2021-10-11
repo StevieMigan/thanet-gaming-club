@@ -18,9 +18,9 @@ body {
 
 .hero-image {
     height: 300px;
-    width: 300px;
-    border-radius: 50%;
+    width: auto;
     padding: 10px 10px 10px 5px;
+    border-radius: 50px;
 }
 
 #section-one-text {
@@ -72,6 +72,7 @@ ul {
     font-size: x-large;
     list-style-type: none;
     margin: 2px;
+    padding: 2px;
     float: right;
     font-family: Audiowide, sans-serif;
 }
@@ -83,6 +84,7 @@ li {
 #menu a {
     text-decoration: none;
     color: white;
+    padding: 5px;
 }
 
 #menu a:hover {
