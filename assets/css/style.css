@@ -209,82 +209,39 @@ footer {
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1200px)
-
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-
-    h1 {
-        text-align: left;
-    }
-
-    ul {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-
-    #section-two {
-        width: 90%;
-        height: 1200px;
-        margin: 0 auto;
-    }
-
-    .gallery {
-        column-count: 3;
-    }
-}
-
-/* For small screens sizes from 800px wide and down */
-@media screen and (max-width: 800px) {
-
-    h1 {
-        text-align: center;
-        font-size: x-large;
-    }
-
-    ul {
-        text-align: center;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
+@media screen and (max-width: 1500px) {
 
     #section-one {
         text-align: left;
-        font-size: smaller;
-        background-position: left;
-        width: 500px;
-        height: auto;
+        background-color: black;
+        display: inline-block;
     }
 
-    .hero-image {
-        border-radius: 20%;
-        display: inline-block;
-        width: 80%;
-       
-    }
+.hero-image {
+    margin-left: 0;
+}
 
     #section-two {
-        width: 500px;
-        height: auto;
         text-align: left;
-    }
-
-    .snes-controller {
-        border-radius: 20%;
-        display: block;
-        width: 80%;
+        background-color: black;
+        display: inline-block;
     }
 
     #section-three {
-        width: 500px;
-        height: auto;
-        text-align: left;
+        text-align: justify;
+        display: inline-block;
+        background-color: black;
+        
     }
 
     .gallery {
-        column-count: 2;
+        columns: 2;
+    }
+
+    .form-section {
+        background-image: url(/assets/images/high-score.jpeg);
     }
 }
+
+    
+       
