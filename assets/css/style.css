@@ -206,42 +206,36 @@ footer {
     color: aqua;
 }
 
-/* Media queries */
+@media screen and (max-width: 1200px) {
+   
 
-/* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1500px) {
-
-    #section-one {
-        text-align: left;
-        background-color: black;
-        display: inline-block;
+        p {
+            text-align: left;
+        }
     }
 
-.hero-image {
-    margin-left: 0;
+    @media screen and (max-width: 800px) {
+
+        .gallery {
+            column-count: 3;
+        }
+    }
+
+    @media screen and (max-width: 500px) {
+
+        .hero-image {
+            display: none;
+        }
+
+#section-one {
+    background-color: black;
 }
 
-    #section-two {
-        text-align: left;
-        background-color: black;
-        display: inline-block;
-    }
-
-    #section-three {
-        text-align: justify;
-        display: inline-block;
-        background-color: black;
-        
-    }
-
-    .gallery {
-        columns: 2;
-    }
-
-    .form-section {
-        background-image: url(/assets/images/high-score.jpeg);
-    }
+.map {
+    display: none;
 }
 
-    
-       
+        .gallery {
+            column-count: 2;
+        }
+    }
