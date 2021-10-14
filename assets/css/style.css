@@ -206,36 +206,68 @@ footer {
     color: aqua;
 }
 
-@media screen and (max-width: 1200px) {
-   
+@media screen and (max-width: 1500px) {
 
-        p {
-            text-align: left;
-        }
+    h1 h2 {
+        text-align: left;
     }
 
-    @media screen and (max-width: 800px) {
 
-        .gallery {
-            column-count: 3;
-        }
+    #games-title {
+        background-image: url(/assets/images/galaxy-background.jpg);
+        background-size: cover;
     }
 
-    @media screen and (max-width: 500px) {
+    #section-one {
+        height: 300px;
+        background-image: url(/assets/images/high-score.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
 
-        .hero-image {
-            display: none;
-        }
+    .hero-image {
+        display: none;
+    }
+    
 
-#section-one {
-    background-color: black;
+    #section-one-text {
+        text-align: left;
+        font-size: smaller;
+        border: solid 2px purple;
+        background-color: black;
+    }
+
+    #section-two {
+        background-color: black;
+        text-align: left;
+    }
+
+    .snes-controller {
+        float: left;
+    }
+
+    #section-three {
+        background-color: black;
+    }
 }
 
-.map {
-    display: none;
+@media screen and (max-width: 1000px) {
+
+    .gallery {
+        column-count: 3;
+    }
 }
 
-        .gallery {
-            column-count: 2;
-        }
+@media screen and (max-width: 600px) {
+
+    .gallery {
+        column-count: 2;
     }
+}
+    
+@media screen and (max-width: 500px) {
+
+    .map {
+        display: none;
+    }
+}
