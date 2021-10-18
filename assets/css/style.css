@@ -166,7 +166,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url(../images/high-score.jpeg);
+    background: url(../images/high-score.webp);
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -221,7 +221,7 @@ footer {
 
     #section-one {
         height: 300px;
-        background-image: url(../images/high-score.jpeg);
+        background-image: url(../images/high-score.webp);
         background-repeat: no-repeat;
         background-size: cover;
     }
