@@ -14,55 +14,52 @@ The site also offers a sign-up form and links to social media for anyone interes
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  The Navigation bar appears on all three pages and features links to the "Home", "games" and "join us" sections. The Navbar has been styled with a color changing hover feature to highlight to the user which section they will be navigating to next.
+
+  Featuring the Navigation bar on all three pages negates the need for the user to use the back button when navigating the site.
 
 ![Nav Bar](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/navbar.png?raw=true)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  The Landing features a bright and colourful feature image that captures the attention of the user immediately, coupled with a short, snappy overview of the purpose of the website and the club that it serves to advertise.
 
 ![Landing Page](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/landing-image.png?raw=true)
 
 - __What do we play? section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+ -The "What do we play?" section provides further details to the user of the kinds of activities that take place at the club as well as the range of hardware available to play.
+
+  -The section is complimented by another eye-catching image, along with individual logos for the aforementioned games consoles that are available to play at the club.
 
 ![What do we play?](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/what-do-we-play.png?raw=true)
 
 - __When and where to find us? section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section serves to inform the user of the weekly meetup day and times for the group, as well as featuring the full address in an easy to read format. 
+
+  - This section also includes a Google maps link that shows the user precisely where they can find the group.
 
 ![When and where to find us?](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/where-to-find-us.png?raw=true)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section provides the user with alternative ways to link in with and follow the group on their various social media pages - these include: Facebook, Twitter and Instagram.
 
 ![Footer](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/footer.png?raw=true)
 
 - __Games__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The games section provides an overview of some of the games available to play at the club. This serves to inform the user of what they can access whilst also offering some relatability as they should hopefully recognise one or two of the games.
+  -Games have been selected based on a mixture of current popularity along with some retro classics thrown in to appeal to older audiences. 
 
 ![Games](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/games-library.png?raw=true)
 
 - __Join Us section__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page allows a simple means of registering your interest in the club. It encourages users to leave their name and email address to allow a member of the team to send a follow-up email inviting them along to the club meet and to answer any further questions.
 
 ![Join us](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/join.png?raw=true)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
 
