@@ -57,13 +57,14 @@ The site also offers a sign-up form and links to social media for anyone interes
 
 - __Join Us section__
 
-  - This page allows a simple means of registering your interest in the club. It encourages users to leave their name and email address to allow a member of the team to send a follow-up email inviting them along to the club meet and to answer any further questions.
+  - This page allows a simple means of registering your interest in the club. It encourages users to leave their name and email address to allow a member of the team to send a follow-up email inviting them along to the club meet and/or to answer any further questions.
 
 ![Join us](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/join.png?raw=true)
 
 ### Features Left to Implement
 
-- Another feature idea
+- Embed a Youtube video onto the homepage that showcases the group and what goes on there.
+- Add Testimonials and feedback from people who already attend the group.
 
 ## Testing 
 
@@ -121,13 +122,6 @@ Congratulations on completing your Readme, you have made another big stride in t
 
 ## Other General Project Advice
 
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
 
 - Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
   - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
