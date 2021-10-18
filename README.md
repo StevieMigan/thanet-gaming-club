@@ -4,7 +4,11 @@ Thanet Gaming Club is a site that advertises and informs people about a brand ne
  
 The site also offers a sign-up form and links to social media for anyone interested in connecting with the group.
 
-![Responsive Mockup] url(/workspace/thanet-gaming-club/assets/images/responsive.png)
+
+
+![Responsive Mock-up](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/responsive.png?raw=true)
+
+
 
 ## Features 
 
