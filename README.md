@@ -1,10 +1,10 @@
-# Love Running
+# Thanet Gaming Club
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Thanet Gaming Club is a site that advertises and informs people about a brand new gaming hobby club that has started in Westgate-on-sea, Thanet. The site is aimed at gamers of all ages and abilities and it offers an easy-to-access way of finding out how to join the group as well as the benefits of doing so. Not only does the site detail the times, dates and venue of the club, but it also offers information about the range of games and consoles on offer to play.
+ 
+The site also offers a sign-up form and links to social media for anyone interested in connecting with the group.
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Responsive Mockup] url(/workspace/thanet-gaming-club/assets/images/responsive.png)
 
 ## Features 
 
