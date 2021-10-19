@@ -70,17 +70,36 @@ The site also offers a sign-up form and links to social media for anyone interes
 
 A number of testing methods have been used throughout the creation of Thanet Gaming Club. The navigation elements, both internal and external have been checked to ensure they lead to the right page and that all external links open in a new tab.
 
-The Lighthouse feature of Chrome Dev tools has been used to ensure a consistently high score in 
+The Lighthouse feature of Chrome Dev tools has been used to ensure a consistently high score in all 4 areas of testing:
 
+*Performance
+*Accessibility
+*Best Practices
+*SEO
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+![Lighthouse](https://github.com/StevieMigan/thanet-gaming-club/blob/main/assets/images/lighthouse-score.png?raw=true)
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+Site colours and features have been chosen to compliment one another and text color has been chosen to contrast against backgrounds to maximise UX and accessibility. The Site has been tested on a range of Devices and on 3 different browsers to ensure a consistent performance.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+-Chrome
+-Firefox
+-Edge
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The relevant media queries have been implemented to ensure a smooth UX site-wide for all screen sizes. This has been tested using Chrome developer tools and finalised using - http://ami.responsivedesign.is/#
 
+A few minor alterations were made for these media queries - The Hero-image does not appear on mobile devices, focusing instead on relaying information and using the high-score image as a background to provide an eye catching landing page. The background colours for the individual sections have also been removed to just be black on smaller screens, again to minimise overwhelming the user with too many colors and features.
+
+## Bugs
+
+A number of bugs were found during the construction of the project, both in the HTML and CSS files.
+
+- Fixed bugs in file paths that were causing certain images not to load. I removed "/" before assets to fix this problem sitewide.
+
+- Fixed potential issue in the footer social media links relating to security - as flagged by Lighthouse checks - Added rel="noreferrer" to fix this.
+
+- Fixed a bug causing long load times on index.html and games.html by converting images from JPG and PNG format to webp, before compressing images to ensure the minimum file size.
+
+- Fixed a bug in CSS code that was causing console pictures to be sized incorrectly and stretch outside their individual borders. Rectified this by adding "object-fit: cover;" and correcting the Width and Height elements.
 
 ### Validator Testing 
 
@@ -91,46 +110,51 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+None to report.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+This site has been deployed to GitHub pages - Deployment steps are as follows:
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- From the Github repository, navigate to the settings tab
+- From the source section drop-down menu, select the "Master" branch
+- Once this has been selected, the page will refresh with a ribbon display to indicate that the site has been deployed successfully.
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The Live link can be found here - https://steviemigan.github.io/thanet-gaming-club/
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- Hero-image.webp and snes-contoller.webp have been sourced from https://www.pexels.com/
+- The icons in the footer, as well as the Control pad icon used in the site logo were taken from https://fontawesome.com/
+- Fonts - Roboto & Autowide have been sourced from https://fonts.google.com/
+- Code for the Sign-up form was adapted from the CI "Love Running" walkthrough project. The Form destination still links to CI but the rest has been changed to fit with the site purpose and style.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Hero-image.webp and snes-contoller.webp have been sourced from https://www.pexels.com/
+- Console logo sources: 
 
+PS5-Logo - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojY0hZpJtconMSSl-gXqhQfBs_cQ21ncapw&usqp=CAU
+N64-Logo - https://1000logos.net/wp-content/uploads/2017/07/Emblem-N64.jpg
+Xbox-series-x-logo - https://twinfinite.net/wp-content/uploads/2020/03/Xbox-Series-X-Logo-scaled.jpg
+Megadrive-logo - https://image.pngaaa.com/521/4150521-middle.png
+Sega-master-system-logo - https://www.logolynx.com/images/logolynx/6c/6ca781208326a18e1df470307bdeac15.jpeg
+Sega-dreamcast-logo - https://i.pinimg.com/originals/80/1a/3e/801a3e3501cfb3c25a34d456dc3a3a1c.jpg
+Snes-logo - https://logodix.com/logo/311006.png
+Nintendo-switch-logo - https://sportshub.cbsistatic.com/i/2021/03/18/6b14bc50-dc21-4ae9-b73c-c1282b002e8a/nintendo-switch-logo-black-white-1216019.jpg
+Nintendo-gamecube-logo - https://cdn.freebiesupply.com/logos/large/2x/nintendo-gamecube-logo-png-transparent.png
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
+- Games gallery sources -
 
-## Other General Project Advice
-
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+Castle-of-illusion-ps3 - https://images-na.ssl-images-amazon.com/images/I/81r0SDcqyNL.png
+Fortnite-ps4 - https://www.cranbrookeducationcampus.org.uk/wp-content/uploads/2018/12/fortnite-2.jpg
+Goldeneye-n64 - https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
+Halo-infinite-xbox - https://content.halocdn.com/media/Default/community/InfiniteCoverArt/halo_infinite_wallpaper-mobile_1080x1920-a49fb4f750fc4a4d9ae2cc9f58f4e366.jpg
+Mario-kart-8-deluxe - https://assets.nintendo.eu/image/upload/f_auto,q_auto,t_product_tile_desktop/MNS/NOE/70010000000126/SQ_NSwitch_MarioKart8Deluxe
+Minecraft-ps4 - https://ferncreekkids.files.wordpress.com/2015/08/minecraft-banner-3_3510581_3522898.jpg?w=640
+Timesplitters-2-artwork - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRa_EZQXBhsF7BdI4FQXBXUshMRuBDRQliM6buSEhxWqdUsgwH-xk_Je13vqG9-9pLdSw&usqp=CAU
+Sonic-2-megadrive - https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg
+Super-mario-world-snes - https://e.snmc.io/lk/o/x/c5c0fa491bb1ea4faf324b8f53aa1fcd/6735381
