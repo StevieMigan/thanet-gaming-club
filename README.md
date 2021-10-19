@@ -68,7 +68,9 @@ The site also offers a sign-up form and links to social media for anyone interes
 
 ## Testing 
 
+A number of testing methods have been used throughout the creation of Thanet Gaming Club. The navigation elements, both internal and external have been checked to ensure they lead to the right page and that all external links open in a new tab.
 
+The Lighthouse feature of Chrome Dev tools has been used to ensure a consistently high score in 
 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
