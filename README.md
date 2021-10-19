@@ -138,23 +138,41 @@ The Live link can be found here - https://steviemigan.github.io/thanet-gaming-cl
 - Console logo sources: 
 
 PS5-Logo - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRojY0hZpJtconMSSl-gXqhQfBs_cQ21ncapw&usqp=CAU
+
 N64-Logo - https://1000logos.net/wp-content/uploads/2017/07/Emblem-N64.jpg
+
 Xbox-series-x-logo - https://twinfinite.net/wp-content/uploads/2020/03/Xbox-Series-X-Logo-scaled.jpg
+
 Megadrive-logo - https://image.pngaaa.com/521/4150521-middle.png
+
 Sega-master-system-logo - https://www.logolynx.com/images/logolynx/6c/6ca781208326a18e1df470307bdeac15.jpeg
+
 Sega-dreamcast-logo - https://i.pinimg.com/originals/80/1a/3e/801a3e3501cfb3c25a34d456dc3a3a1c.jpg
+
 Snes-logo - https://logodix.com/logo/311006.png
+
 Nintendo-switch-logo - https://sportshub.cbsistatic.com/i/2021/03/18/6b14bc50-dc21-4ae9-b73c-c1282b002e8a/nintendo-switch-logo-black-white-1216019.jpg
+
 Nintendo-gamecube-logo - https://cdn.freebiesupply.com/logos/large/2x/nintendo-gamecube-logo-png-transparent.png
+
 
 - Games gallery sources -
 
 Castle-of-illusion-ps3 - https://images-na.ssl-images-amazon.com/images/I/81r0SDcqyNL.png
+
 Fortnite-ps4 - https://www.cranbrookeducationcampus.org.uk/wp-content/uploads/2018/12/fortnite-2.jpg
+
 Goldeneye-n64 - https://upload.wikimedia.org/wikipedia/en/3/36/GoldenEye007box.jpg
+
 Halo-infinite-xbox - https://content.halocdn.com/media/Default/community/InfiniteCoverArt/halo_infinite_wallpaper-mobile_1080x1920-a49fb4f750fc4a4d9ae2cc9f58f4e366.jpg
+
 Mario-kart-8-deluxe - https://assets.nintendo.eu/image/upload/f_auto,q_auto,t_product_tile_desktop/MNS/NOE/70010000000126/SQ_NSwitch_MarioKart8Deluxe
+
 Minecraft-ps4 - https://ferncreekkids.files.wordpress.com/2015/08/minecraft-banner-3_3510581_3522898.jpg?w=640
+
 Timesplitters-2-artwork - https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRa_EZQXBhsF7BdI4FQXBXUshMRuBDRQliM6buSEhxWqdUsgwH-xk_Je13vqG9-9pLdSw&usqp=CAU
+
 Sonic-2-megadrive - https://upload.wikimedia.org/wikipedia/en/0/0c/Sonic_2_US_Cover.jpg
+
 Super-mario-world-snes - https://e.snmc.io/lk/o/x/c5c0fa491bb1ea4faf324b8f53aa1fcd/6735381
+
